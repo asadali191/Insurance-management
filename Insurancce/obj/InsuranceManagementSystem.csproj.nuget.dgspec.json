@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurancce\\InsuranceManagementSystem.csproj": {}
+    "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurance-management\\Insurancce\\InsuranceManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurancce\\InsuranceManagementSystem.csproj": {
+    "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurance-management\\Insurancce\\InsuranceManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurancce\\InsuranceManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurance-management\\Insurancce\\InsuranceManagementSystem.csproj",
         "projectName": "InsuranceManagementSystem",
-        "projectPath": "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurancce\\InsuranceManagementSystem.csproj",
+        "projectPath": "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurance-management\\Insurancce\\InsuranceManagementSystem.csproj",
         "packagesPath": "C:\\Users\\H-P\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurancce\\obj\\",
+        "outputPath": "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurance-management\\Insurancce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

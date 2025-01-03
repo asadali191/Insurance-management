@@ -1,5 +1,5 @@
---create database InsuranceData;
----use InsuranceData;
+create database InsuranceData;
+use InsuranceData;
 
 
 ----for migration table
@@ -88,24 +88,26 @@
 --    'johndoe@example.com' -- Email address
 --);
 
---CREATE TABLE dbo.UserDetails (
---    id INT IDENTITY(1,1) NOT NULL,
---    user_id INT NOT NULL,
---    name NVARCHAR(MAX) NOT NULL,
---    username NVARCHAR(MAX) NOT NULL,
---    password NVARCHAR(MAX) NOT NULL,
---   phone_no NVARCHAR(MAX) NOT NULL,
---   dob DATETIME NOT NULL,
---   address  NVARCHAR(MAX) NOT NULL,
---  email NVARCHAR(MAX) NOT NULL,
---    CONSTRAINT PK_USER_ID PRIMARY KEY (id)
---);
---DROP TABLE dbo.UserDetails;
+CREATE TABLE dbo.UserDetails (
+   id INT IDENTITY(1,1) NOT NULL,
+    user_id INT NOT NULL,
+    name NVARCHAR(MAX) NOT NULL,
+    username NVARCHAR(MAX) NOT NULL,
+    password NVARCHAR(MAX) NOT NULL,
+   phone_no NVARCHAR(MAX) NOT NULL,
+   dob DATETIME NOT NULL,
+   address  NVARCHAR(MAX) NOT NULL,
+  email NVARCHAR(MAX) NOT NULL,
+    CONSTRAINT PK_USER_ID PRIMARY KEY (id)
+);
+DROP TABLE dbo.UserDetails;
 
 
 --SELECT * FROM  dbo.UserDetails;
 SELECT * FROM dbo.AdminDetails;
 select * from dbo.UserDetails;
+select *from dbo.AgentDetails;
+
 
 
 --INSERT INTO dbo.AdminDetails VALUES (1,'Asad Ali' , 'asad123' )

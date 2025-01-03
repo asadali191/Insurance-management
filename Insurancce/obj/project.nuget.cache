@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fhlHc7PMU/k=",
+  "dgSpecHash": "xkFh8058uqc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurancce\\InsuranceManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\H-P\\Desktop\\SoftwareContruction\\Insurance-management\\Insurancce\\InsuranceManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\H-P\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\H-P\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
